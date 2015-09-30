@@ -80,7 +80,6 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		"DrawExample.dll",
-		"Utils.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

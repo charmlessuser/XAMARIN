@@ -13,7 +13,7 @@ namespace DrawExample
 			
 		}
 
-		private static string intensity = "FF";
+		public static string intensity = "FF";
 		private static int fileCounter = 0;
 		private static List<Bitmap> blocks = null;
 		private static int sizeBlocks = 10;
@@ -29,12 +29,12 @@ namespace DrawExample
 			"E00000", "00E000", "0000E0", "E0E000", "E000E0", "00E0E0", "E0E0E0", 
 		};
 
-		public static Bitmap GetImage(int width, int height)
+		public static Bitmap GetImage(int width, int height, string intensiteit)
 		{
-			
+			intensity = intensiteit;
 			sizeBlocks = width / 7;
 			int amountImages = 56;
-			List<Bitmap> bitmaps = DrawImages.CreateBitmapBlocks (amountImages, false);
+			List<Bitmap> bitmaps = DrawImages.CreateBitmapBlocks (amountImages,false);
 			Paint p = new Paint ();
 			p.StrokeWidth = 0.5f;
 			p.SetStyle (Paint.Style.Fill);

@@ -43,7 +43,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Resources\Resource.designer.cs" />
-    <Compile Include="Util.cs" />
     <Compile Include="CustomSize.cs" />
   </ItemGroup>
   <ItemGroup>

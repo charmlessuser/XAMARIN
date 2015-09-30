@@ -68,10 +68,4 @@
     <AndroidResource Include="Resources\drawable-xhdpi\red_x.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
-  <ItemGroup>
-    <ProjectReference Include="..\Utils\Utils.csproj">
-      <Project>{1AB0D610-9FFD-43C0-9845-5C6FFBF8B56E}</Project>
-      <Name>Utils</Name>
-    </ProjectReference>
-  </ItemGroup>
 </Project>
