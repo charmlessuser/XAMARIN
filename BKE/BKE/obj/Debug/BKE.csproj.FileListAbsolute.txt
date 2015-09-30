@@ -34,6 +34,7 @@ C:\Users\terence\Documents\Projects\XAMARIN\BKE\BKE\obj\Debug\res\drawable-xhdpi
 C:\Users\terence\Documents\Projects\XAMARIN\BKE\BKE\obj\Debug\res\drawable-xhdpi\red_x.png
 C:\Users\terence\Documents\Projects\XAMARIN\BKE\BKE\obj\Debug\R.cs.flag
 C:\Users\terence\Documents\Projects\XAMARIN\BKE\BKE\obj\Debug\uploadflags.txt
+<<<<<<< HEAD
 C:\Users\Rico\Documents\GitHub\XAMARIN\BKE\BKE\bin\Debug\BKE.dll
 C:\Users\Rico\Documents\GitHub\XAMARIN\BKE\BKE\bin\Debug\BKE.pdb
 C:\Users\Rico\Documents\GitHub\XAMARIN\BKE\BKE\bin\Debug\com.companyname.bke.apk
@@ -53,3 +54,8 @@ C:\Users\Rico\Documents\GitHub\XAMARIN\BKE\BKE\obj\Debug\res\drawable-xhdpi\blue
 C:\Users\Rico\Documents\GitHub\XAMARIN\BKE\BKE\obj\Debug\res\drawable-xhdpi\red_x.png
 C:\Users\Rico\Documents\GitHub\XAMARIN\BKE\BKE\obj\Debug\R.cs.flag
 C:\Users\Rico\Documents\GitHub\XAMARIN\BKE\BKE\obj\Debug\uploadflags.txt
+=======
+C:\Users\terence\Documents\Projects\XAMARIN\BKE\BKE\obj\Debug\BKE.csprojResolveAssemblyReference.cache
+C:\Users\terence\Documents\Projects\XAMARIN\BKE\BKE\bin\Debug\Utils.dll
+C:\Users\terence\Documents\Projects\XAMARIN\BKE\BKE\bin\Debug\Utils.pdb
+>>>>>>> Tryan18/master
